@@ -1,0 +1,1 @@
+see: http://spring-guides.marcuschiu.com/spring-data/hypersql/spring-boot-hypersql-autoconfigure-none.html
